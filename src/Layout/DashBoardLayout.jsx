@@ -21,7 +21,7 @@ const DashBoardLayout = () => {
       {/* ===== Main Content ===== */}
       <main
         className="
-          flex-1 p-4 sm:p-6 lg:p-8 
+          flex-1  
           mt-16 lg:mt-0 
           overflow-y-auto
           transition-all duration-300 ease-in-out
@@ -30,7 +30,7 @@ const DashBoardLayout = () => {
         <div
           className="
             bg-white/80 backdrop-blur-xl shadow-lg rounded-3xl 
-            p-4 sm:p-6 md:p-8 
+          w-full 
             border border-gray-200/60
             min-h-[85vh]
             transition-all duration-300
