@@ -36,12 +36,7 @@ const LandingPage = () => {
             >
               Get Started
             </Link>
-            <Link
-              to="/login"
-              className="border border-green-400 px-6 py-3 rounded-lg font-semibold text-green-400 hover:bg-green-400/10 transition-transform hover:scale-105"
-            >
-              Demo Login
-            </Link>
+           
           </div>
         </motion.div>
 
